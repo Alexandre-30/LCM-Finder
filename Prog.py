@@ -1,0 +1,5 @@
+print("WELCOME TO THE LCM FINDER!")
+Num1=int(input("Enter the first number: "))
+Num2=int(input("Enter the second number: "))
+Lcm=int(Num1) * int(Num2)
+print("The least common multiple of ",Num1,"and",Num2,"is",Lcm,".")
